@@ -1,0 +1,6 @@
+﻿<AdaptiveVisionProject Name="cw4_tabsy" Version="4.7.5" StartUpProgramName="Main">
+  <Files>
+    <Program Path="cw4_tabsy.avbin" />
+    <View Path="cw4_tabsy.avview" />
+  </Files>
+</AdaptiveVisionProject>

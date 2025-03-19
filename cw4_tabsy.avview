@@ -1,0 +1,32 @@
+﻿<Documents>
+  <HSplit>
+    <VSplit>
+      <Views Width="0.498" Height="0.496">
+        <View Type="ImageView">
+          <Output Name="con_9dfd942e_48f0_4a8e_aeee_266d4fc3d122" Macro="Main" Start="Main" Instance="0" />
+        </View>
+      </Views>
+      <Views Width="0.498" Height="0.496">
+        <View Type="ImageView">
+          <Output Name="con_9dfd942e_48f0_4a8e_aeee_266d4fc3d122" Macro="Main" Start="Main" Instance="0" />
+          <Output Name="con_b837c6fc_1ee7_47a6_84e2_2e2ef07c0c1a" Macro="Main" Start="Main" Instance="0" />
+        </View>
+      </Views>
+    </VSplit>
+    <VSplit>
+      <Views Width="0.498" Height="0.496">
+        <View Type="ImageView">
+          <Output Name="con_1e2338d8_e0c8_405a_98ba_241f28ca7dca" Macro="Main" Start="Main" Instance="0" />
+          <ViewState>
+            <ViewMode Mode="Manual" Scale="0.333333333333333" X="41" Y="11" />
+          </ViewState>
+        </View>
+      </Views>
+      <Views Width="0.498" Height="0.496">
+        <View Type="TextView">
+          <Output Name="con_8afe3f91_7556_4ff7_92b5_da11736e255e" Macro="Main" Start="Main" Instance="0" />
+        </View>
+      </Views>
+    </VSplit>
+  </HSplit>
+</Documents>
